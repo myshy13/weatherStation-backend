@@ -1,0 +1,19 @@
+{
+  "name": "weatherstation-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js",
+    "v": "echo 1.0.0",
+    "restart": "npm restart index.js"
+  },
+  "keywords": [],
+  "author": "Hamish Mcintyre",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
